@@ -1,3 +1,3 @@
 # Cyber-Threat-Detection-Using-Machine-Learning-
  
-In cybersecurity, machine learning can be used to recognize patterns in network traffic, user behavior, and system operations and classify cyber risks and detect as well as predict attacks in real time without the need for human intervention. 
+Deployed a Streamlit-based machine learning pipeline for cyber threat detection using a Random Forest Classifier. The pipeline employs the Slime Mold Algorithm for hyperparameter tuning and the Flamingo Search Algorithm for feature selectionDeployed a Streamlit-based machine learning pipeline for cyber threat detection using a Random Forest Classifier. The pipeline employs the Slime Mold Algorithm for hyperparameter tuning and the Flamingo Search Algorithm for feature selection
